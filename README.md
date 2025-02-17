@@ -1,6 +1,8 @@
-# Word Processing Programs
+# CK-Test Project
 
-A collection of simple Go programs for text and data processing. This project includes programs for grouping cities by country and performing root word replacements in sentences.
+This project provides two main functionalities:
+1. Group Cities by Country
+2. Root Word Replacement
 
 ## Table of Contents
 - [Features](#features)
